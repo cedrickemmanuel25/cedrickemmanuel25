@@ -22,14 +22,18 @@ Mon travail associe **backend Laravel**, **interfaces web**, **applications Flut
 
 ## 🧰 Compétences techniques
 
-| Domaine | Technologies et pratiques |
+| Domaine | Technologies, outils et pratiques |
 | --- | --- |
-| **Backend** | PHP, Laravel, API REST, authentification, autorisations |
-| **Web** | Blade, HTML, CSS, JavaScript, interfaces responsive |
-| **Mobile** | Flutter, Dart, intégration d'API |
-| **Données** | MySQL / MariaDB, Eloquent ORM, migrations |
-| **Qualité** | Tests automatisés, contrôle des parcours, débogage |
-| **Architecture** | Applications web/mobile connectées à un backend commun, règles métier |
+| **Langages** | PHP · SQL · JavaScript · Dart · Python · C |
+| **Frontend web** | HTML5 · CSS3 · React · Angular · Laravel Blade · Interfaces responsive |
+| **Backend & API** | Laravel · FastAPI · Node.js · API REST · Authentification · Autorisations (RBAC) |
+| **Développement mobile** | Flutter · React Native · Applications Android et iOS |
+| **Bases de données & services** | MySQL · PostgreSQL · SQLite · Firebase · Redis · Eloquent ORM |
+| **Outils & déploiement** | Git · GitHub · Docker · cPanel |
+| **Sécurité & qualité** | KYC · Authentification OTP / 2FA · Tests automatisés · Débogage · Contrôle des accès |
+| **Architecture** | Applications web et mobiles · Conception d'API · Modélisation de données · Intégration de services |
+
+*Technologies et compétences présentées dans mon CV ; leur utilisation varie selon les projets.*
 
 ## 🚀 Projets à la une
 
